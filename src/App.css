@@ -1,0 +1,45 @@
+.app {
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 24px;
+  font-family: Arial, Helvetica, sans-serif
+ 
+}
+.title {
+ text-align: center;   
+}
+
+.formjsx {
+  display: grid;
+  gap: 16px;
+  padding: 20px;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  background: #f9fafb;
+}
+
+.formjsx label {
+  display: grid;
+  gap: 6px;
+  font-weight: bold;
+}
+
+.formjsx input {
+  padding: 10px;
+  border: 1px solid; 
+  border-radius: 6px;
+  
+}
+
+.listjsx {
+  margin-top: 24px;
+  display: grid;
+  gap: 12px;
+}
+
+.list-card{
+  padding: 16px;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  
+}
